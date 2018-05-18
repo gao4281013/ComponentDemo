@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/ModuleGold/ModuleGold.iml" filepath="$PROJECT_DIR$/ModuleGold/ModuleGold.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommonSdk/commonsdk.iml" filepath="$PROJECT_DIR$/CommonSdk/commonsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleZhihu/modulezhihu.iml" filepath="$PROJECT_DIR$/ModuleZhihu/modulezhihu.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoudleGank/moudlegank.iml" filepath="$PROJECT_DIR$/MoudleGank/moudlegank.iml" />
     </modules>
   </component>
