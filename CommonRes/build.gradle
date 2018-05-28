@@ -23,7 +23,7 @@ android {
         }
     }
 
-    resourcePrefix "commonres_" //给Module 内的资源名增加前缀，避免资源重复
+    resourcePrefix "public_" //给Module 内的资源名增加前缀，避免资源重复
 
 }
 
