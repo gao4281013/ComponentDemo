@@ -42,7 +42,7 @@ public class SSLSocketClient {
     }
 
 
-    private static X509TrustManager getTrustManager (){
+    public static X509TrustManager getTrustManager (){
         return new MyTrustManager();
     }
 
