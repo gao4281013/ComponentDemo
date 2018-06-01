@@ -51,7 +51,7 @@ android {
         }
     }
 
-    resourcePrefix "gank_"
+    resourcePrefix "gold_"
 
     lintOptions{
         disable "InvaildPackage"
