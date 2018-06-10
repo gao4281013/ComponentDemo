@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: me.jessyan:arms-2.4.1">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/arms-2.4.1.aar/60ee5e58d56a08c8be99f7f9849f9dd7/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/arms-2.4.1.aar/60ee5e58d56a08c8be99f7f9849f9dd7/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/arms-2.4.1.aar/f5a84d259b4c80ea8958e051ba9ff76b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/arms-2.4.1.aar/f5a84d259b4c80ea8958e051ba9ff76b/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
